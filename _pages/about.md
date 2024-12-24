@@ -32,6 +32,7 @@ Education
 
 Publications
 ======
+
 **Characterization of strongly coupled plasmas produced in argon supercritical fluids**
 
 <img src="https://leejuho95.github.io/files/juho.JPG" width="400px" height="300px" title="cluster"></img>
@@ -40,6 +41,8 @@ Publications
 
 ------
 **Quasi-equillibrium phase coexistence in single component supercritical fluids**
+
+<img src="https://leejuho95.github.io/files/juho.JPG" width="400px" height="300px" title="cluster"></img>
 
 [Link](https://leejuho95.github.io/files/Lee_2022_Plasma_Phys._Control._Fusion_64_095010.pdf)
 
