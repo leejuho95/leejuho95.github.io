@@ -2,8 +2,8 @@
 title: "Quasi-equilibrium phase coexistence in single component supercritical fluids"
 collection: publications
 category: manuscripts
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+permalink: /publication/2021-07-30-Quasi-equilibrium phase coexistence in single component supercritical fluids
+excerpt: ''
 date: 2021-07-30
 venue: ''
 slidesurl: 'https://leejuho95.github.io/files/s41467-021-24895-y.pdf'
