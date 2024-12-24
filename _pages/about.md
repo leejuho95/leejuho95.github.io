@@ -33,8 +33,7 @@ Education
 Publications
 ======
 **Characterization of strongly coupled plasmas produced in argon supercritical fluids**
-<img src="https://leejuho95.github.io/files/juho.JPG" width="100px" height="50px" title="Github_Logo"></img>
-"https://leejuho95.github.io/files/juho.JPG"
+<img src="https://leejuho95.github.io/files/juho.JPG" width="400px" height="300px" title="cluster"></img>
 [Link](https://leejuho95.github.io/files/s41467-021-24895-y.pdf)
 
 ------
