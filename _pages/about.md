@@ -17,9 +17,9 @@ My research interests focus on exploring high-energy density plasma systems usin
 
 News
 ======
-Sep 2018, I joined the P4 Lab.  
+Sep 2018    I joined the P4 Lab.  
 
-Feb 2021, I have rewarded the Alchemist research grant.
+Feb 2021    I have rewarded the Alchemist research grant.
 
 
 <br>
@@ -27,8 +27,8 @@ Feb 2021, I have rewarded the Alchemist research grant.
 
 Education
 ======
-* Sep, 2018 - Present Pohang University of Science and Technology (POSTECH), Pohang, South Korea
-  M.S. & Ph.D. Student in Physics
+Sep, 2018 - Present    Pohang University of Science and Technology (POSTECH), Pohang, South Korea
+                        M.S. & Ph.D. Student in Physics
   
 * Mar, 2014 - Aug, 2018 Pohang University of Science and Technology (POSTECH), Pohang, South Korea
   B.S. in Physics
