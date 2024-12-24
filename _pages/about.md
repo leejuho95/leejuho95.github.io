@@ -12,13 +12,16 @@ I am a Ph.D student in the Physics department at POSTECH. I am a member of the P
 My research interests focus on exploring high-energy density plasma systems using various optical diagnoses.
 
 
-
+<br>
+<br>
 
 News
 ======
 * I joined the P4 Lab.   
 
------           
+
+<br>
+<br>
 
 Education
 ======
@@ -28,7 +31,8 @@ Education
   B.S. in Physics
 
 
------
+<br>
+<br>
 
 Publications
 ======
