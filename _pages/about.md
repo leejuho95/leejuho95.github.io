@@ -27,11 +27,11 @@ Feb 2021 &nbsp; &nbsp; I have rewarded the Alchemist research grant.
 
 Education
 ======
-Sep, 2018 - Present &nbsp; Pohang University of Science and Technology (POSTECH), Pohang, South Korea
-&nbsp; &nbsp; &nbsp; M.S. & Ph.D. Student in Physics
+Sep, 2018 - Present &nbsp; Pohang University of Science and Technology (POSTECH), Pohang, South Korea  
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; M.S. & Ph.D. Student in Physics
   
-* Mar, 2014 - Aug, 2018 Pohang University of Science and Technology (POSTECH), Pohang, South Korea
-  B.S. in Physics
+Mar, 2014 - Aug, 2018 &nbsp; Pohang University of Science and Technology (POSTECH), Pohang, South Korea  
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; B.S. in Physics
 
 
 <br>
