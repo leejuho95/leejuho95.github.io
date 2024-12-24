@@ -5,7 +5,7 @@ category: manuscripts
 permalink: /publication/2021-07-30-Quasi-equilibrium phase coexistence in single component supercritical fluids
 excerpt: ''
 date: 2021-07-30
-venue: ''
+venue: 'Nature Communications'
 slidesurl: 'https://leejuho95.github.io/files/s41467-021-24895-y.pdf'
 paperurl: 'https://www.nature.com/articles/s41467-021-24895-y'
 citation: 'S. Lee, J. Lee (2021). &quot;Paper Title Number 1.&quot; <i>Nat. Commun.</i>. 12(4630).'
