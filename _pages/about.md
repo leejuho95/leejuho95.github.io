@@ -17,19 +17,16 @@ My research interests focus on exploring high-energy density plasma systems usin
 News
 ======
 * I joined the P4 Lab.   
-  
-  
-  
-           
+
+-----           
+
 Education
 ======
 * Mar, 2014 - Aug, 2018 Pohang University of Science and Technology (POSTECH), Pohang, South Korea, B.S. in Physics
 
 
+-----
 
-
-
-   
 Publications
 ======
 
