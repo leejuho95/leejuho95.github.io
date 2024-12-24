@@ -18,6 +18,7 @@ My research interests focus on exploring high-energy density plasma systems usin
 News
 ======
 Sep 2018, I joined the P4 Lab.  
+
 Feb 2021, I have rewarded the Alchemist research grant.
 
 
@@ -28,6 +29,7 @@ Education
 ======
 * Sep, 2018 - Present Pohang University of Science and Technology (POSTECH), Pohang, South Korea
   M.S. & Ph.D. Student in Physics
+  
 * Mar, 2014 - Aug, 2018 Pohang University of Science and Technology (POSTECH), Pohang, South Korea
   B.S. in Physics
 
@@ -38,16 +40,18 @@ Education
 Publications
 ======
 
-**Quasi-equillibrium phase coexistence in single component supercritical fluids**
-
+**Characterization of strongly coupled plasmas produced in argon supercritical fluids**
+<u>Seuntaek Lee* </u>, <u>Juho Lee* </u> et al.
+*Plasma Physics and Controlled Fusion*
 <img src="https://leejuho95.github.io/files/laser produced plasma.PNG" width="500px" height="332px" title="cluster">   
 
 [Link](https://leejuho95.github.io/files/Lee_2022_Plasma_Phys._Control._Fusion_64_095010.pdf)
 
 ------
 
-**Characterization of strongly coupled plasmas produced in argon supercritical fluids**
-
+**Quasi-equillibrium phase coexistence in single component supercritical fluids**
+<u>Seungtaek Lee</u>, Juho Lee
+*Nature Communications*
 <img src="https://leejuho95.github.io/files/cluster transport.jpg" width="500px" height="281px" title="cluster">   
 
 [Link](https://leejuho95.github.io/files/s41467-021-24895-y.pdf)
