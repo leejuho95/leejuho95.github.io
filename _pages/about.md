@@ -9,7 +9,7 @@ redirect_from:
 
 I am Juho Lee, a graduate student in the Physics Department at POSTECH. I am a member of the [P4](https://sites.google.com/site/p4postech/) Lab under the supervision of Prof. Gunsu Yun.
 
-My research focuses on generating <span style="color:blue;">high-energy-density plasmas > </span> using lasers and conducting advanced optical diagnostics. To create dense, strongly coupled plasmas, I employ high-pressure supercritical fluids as the medium. Additionally, I explore the intriguing properties of these materials, aiming to uncover new insight into their behavior under extreme conditions.
+My research focuses on generating <span style="color:blue;">high-energy-density plasmas </span> using lasers and conducting advanced optical diagnostics. To create dense, <span style="color:blue;">strongly coupled plasmas </span>, I employ <span style="color:blue;">high-pressure supercritical fluids </span> as the medium. Additionally, I explore the intriguing properties of these materials, aiming to uncover new insight into their behavior under extreme conditions.
 <span style="color:red;">your text here > </span>
 
 <br>
