@@ -17,9 +17,9 @@ My research interests focus on exploring high-energy density plasma systems usin
 
 News
 ======
-Sep 2018    I joined the P4 Lab.  
+Sep 2018 &nbsp; &nbsp; I joined the P4 Lab.  
 
-Feb 2021    I have rewarded the Alchemist research grant.
+Feb 2021 &nbsp; &nbsp; I have rewarded the Alchemist research grant.
 
 
 <br>
