@@ -1,5 +1,5 @@
 ---
-title: "Paper Title Number 1"
+title: "Quasi-equilibrium phase coexistence in single component supercritical fluids"
 collection: publications
 category: manuscripts
 permalink: /publication/2009-10-01-paper-title-number-1
