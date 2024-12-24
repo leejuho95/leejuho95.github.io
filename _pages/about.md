@@ -22,7 +22,10 @@ News
 
 Education
 ======
-* Mar, 2014 - Aug, 2018 Pohang University of Science and Technology (POSTECH), Pohang, South Korea, B.S. in Physics
+* Sep, 2018 - Present Pohang University of Science and Technology (POSTECH), Pohang, South Korea
+  M.S. & Ph.D. Student in Physics
+* Mar, 2014 - Aug, 2018 Pohang University of Science and Technology (POSTECH), Pohang, South Korea
+  B.S. in Physics
 
 
 -----
