@@ -34,7 +34,7 @@ Publications
 ======
 Characterization of strongly coupled plasmas produced in argon supercritical fluids
 
-[Characterization of strongly coupled plasmas produced in argon supercritical fluids](https://leejuho95.github.io/files/s41467-021-24895-y.pdf)
+[Link](https://leejuho95.github.io/files/s41467-021-24895-y.pdf)
 
 ------
 
