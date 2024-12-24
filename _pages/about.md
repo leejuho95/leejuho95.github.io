@@ -27,8 +27,8 @@ Feb 2021    I have rewarded the Alchemist research grant.
 
 Education
 ======
-Sep, 2018 - Present    Pohang University of Science and Technology (POSTECH), Pohang, South Korea
-                        M.S. & Ph.D. Student in Physics
+Sep, 2018 - Present &nbsp; Pohang University of Science and Technology (POSTECH), Pohang, South Korea
+&nbsp; &nbsp; &nbsp; M.S. & Ph.D. Student in Physics
   
 * Mar, 2014 - Aug, 2018 Pohang University of Science and Technology (POSTECH), Pohang, South Korea
   B.S. in Physics
@@ -42,7 +42,7 @@ Publications
 
 **Characterization of strongly coupled plasmas produced in argon supercritical fluids**
 
-<u>Seuntaek Lee* </u>, <u>Juho Lee* </u> et al.
+<u>Seuntaek Lee* </u>, <u>Juho Lee* </u>, Young Dae Yoon, Dong Eon Kim and Gunsu Yun
 
 *Plasma Physics and Controlled Fusion*
 
@@ -54,7 +54,7 @@ Publications
 
 **Quasi-equillibrium phase coexistence in single component supercritical fluids**
 
-<u>Seungtaek Lee</u>, Juho Lee
+<u>Seungtaek Lee</u>, Juho Lee, Yeonguk Kim, Seokyong Jeong, Dong Eon Kim and Gunsu Yun
 
 *Nature Communications*
 
