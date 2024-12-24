@@ -2,7 +2,7 @@
 title: "Quasi-equilibrium phase coexistence in single component supercritical fluids"
 collection: publications
 category: manuscripts
-permalink: /publication/2021-07-30-Quasi-equilibrium phase coexistence in single component supercritical fluids
+permalink: /publications/2021-07-30-Quasi-equilibrium phase coexistence in single component supercritical fluids
 excerpt: ''
 date: 2021-07-30
 venue: 'Nature Communications'
