@@ -41,7 +41,7 @@ Publications
 
 **Characterization of strongly coupled plasmas produced in argon supercritical fluids**
 
-<u>Seuntaek Lee* </u>, <u>Juho Lee* </u>, Young Dae Yoon, Dong Eon Kim and Gunsu Yun
+Seungtaek Lee*, <u>Juho Lee* </u>, Young Dae Yoon, Dong Eon Kim and Gunsu Yun
 
 *Plasma Physics and Controlled Fusion*
 
@@ -53,7 +53,7 @@ Publications
 
 **Quasi-equillibrium phase coexistence in single component supercritical fluids**
 
-<u>Seungtaek Lee</u>, Juho Lee, Yeonguk Kim, Seokyong Jeong, Dong Eon Kim and Gunsu Yun
+Seungtaek Lee, <u>Juho Lee</u>, Yeonguk Kim, Seokyong Jeong, Dong Eon Kim and Gunsu Yun
 
 *Nature Communications*
 
