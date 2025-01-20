@@ -11,5 +11,8 @@ main:
   - title: "Projects"
     url: /talks/   
     
+  - title: "Portfolio"
+    url: /portfolios/   
+    
   - title: "CV"
     url: https://leejuho95.github.io/files/CV_Juho.pdf
