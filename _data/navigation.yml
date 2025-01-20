@@ -9,7 +9,7 @@ main:
     url: /publications/
 
   - title: "Projects"
-    url: /projects/   
+    url: /talks/   
     
   - title: "CV"
     url: https://leejuho95.github.io/files/CV_Juho.pdf
