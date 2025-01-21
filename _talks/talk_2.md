@@ -2,7 +2,7 @@
 title: "OES measurement and blackbody analysis for dense plasma system"
 collection: talks
 type: "Talk"
-permalink: /talks/talk 2
+permalink: /talks/talk_2
 venue: ""
 date: 
 location: ""
