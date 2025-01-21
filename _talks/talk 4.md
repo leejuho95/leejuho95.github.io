@@ -1,5 +1,5 @@
 ---
-title: "Tutorial 1 on Relevant Topic in Your Field"
+title: "Investigation of high-pressure supercritical fluids for achieving high-energy density plasmas"
 collection: talks
 type: "Tutorial"
 permalink: /talks/talk 4
