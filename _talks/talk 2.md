@@ -1,5 +1,5 @@
 ---
-title: "Talk 2 on Relevant Topic in Your Field"
+title: "OES measurement and blackbody analysis for dense plasma system"
 collection: talks
 type: "Talk"
 permalink: /talks/talk 2
