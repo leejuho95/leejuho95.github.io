@@ -1,6 +1,6 @@
 ---
 title: "Investigation of Shock wave propagation induced by a laser-produced plasmas in supercritical fluids"
-excerpt: "<br/><img src='/images/500x300.png'>"
+excerpt: "<br/><img src='/files/shadowgraphy.png'>"
 collection: portfolio
 ---
 
