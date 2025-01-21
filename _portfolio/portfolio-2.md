@@ -1,6 +1,6 @@
 ---
 title: "Investigation of high-pressure supercritical fluids for achieving high-energy density plasmas"
-excerpt: "<br/><img src='/images/500x300.png'>"
+excerpt: "<br/><img src='/files/Droplet image.png'>"
 collection: portfolio
 ---
 
