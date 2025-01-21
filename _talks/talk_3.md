@@ -2,7 +2,7 @@
 title: "Investigation of Shock wave propagation induced by a laser-produced plasmas in supercritical fluids"
 collection: talks
 type: "Project"
-permalink: /talks/talk 3
+permalink: /talks/talk_3
 venue: ""
 date: 
 location: ""
