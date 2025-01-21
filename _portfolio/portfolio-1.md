@@ -1,6 +1,6 @@
 ---
 title: "OES measurement and blackbody analysis for dense plasma system"
-excerpt: "<br/><img src='/images/500x300.png'>"
+excerpt: "<br/><img src='/files/OES and blackbody analysis.png'>"
 collection: portfolio
 ---
 
