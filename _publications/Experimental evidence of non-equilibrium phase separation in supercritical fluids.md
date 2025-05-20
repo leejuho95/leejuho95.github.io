@@ -1,8 +1,8 @@
 ---
-title: "Characterization of strongly coupled plasmas produced in argon supercritical fluids"
+title: "Experimental evidence of non-equilibrium phase separation in supercritical fluids"
 collection: publications
 category: manuscripts
-permalink: /publications/2022-07-25-Characterization of strongly coupled plasmas produced in argon supercritical fluids
+permalink:
 excerpt: ''
 date: 
 venue: 'manuscript submitted'
