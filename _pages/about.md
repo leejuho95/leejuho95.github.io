@@ -8,7 +8,7 @@ redirect_from:
 ---
 I am Juho Lee. I received my graduate training in the Department of Physics at POSTECH, where I was a member of the P4 Lab under the supervision of Prof. Gunsu Yun. 
 
-I am currently a Staff Engineer at Samsung Electronics DS.
+I am currently a Staff Engineer at <span style="color:blue;">Samsung Electronics DS</span>.
 
 My research focused on generating <span style="color:blue;">high-energy-density plasmas</span> using lasers and conducting advanced optical diagnostics. To create dense, <span style="color:blue;">strongly coupled plasmas</span>, I employed <span style="color:blue;">high-pressure supercritical fluids</span> as the medium. Additionally, I explored the intriguing properties of these materials, aiming to uncover new insights into their behavior under extreme conditions.
 
