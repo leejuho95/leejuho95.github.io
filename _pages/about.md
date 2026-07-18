@@ -50,7 +50,7 @@ Publications
 
 *Scientific Reports*
 
-<img src="https://leejuho95.github.io/files/IPD.png" width="500px" height="332px" title="IPD">   
+<img src="https://leejuho95.github.io/files/IPD.png" width="550px" height="332px" title="IPD">   
 
 [Link](https://leejuho95.github.io/files/s41598-025-26615-8.pdf)
 
@@ -62,7 +62,7 @@ Publications
 
 *Scientific Reports*
 
-<img src="https://leejuho95.github.io/files/NO2 formation.png" width="500px" height="332px" title="NO2">   
+<img src="https://leejuho95.github.io/files/NO2 formation.png" width="600px" height="400px" title="NO2">   
 
 [Link](https://leejuho95.github.io/files/s41598-025-21381-z.pdf)
 
