@@ -6,16 +6,20 @@ redirect_from:
   - /about/
   - /about.html
 ---
+I am Juho Lee. I received my graduate training in the Department of Physics at POSTECH, where I was a member of the P4 Lab under the supervision of Prof. Gunsu Yun. 
+I am currently an engineer at Samsung Electronics DS.
 
-I am Juho Lee, a graduate student in the Physics Department at POSTECH. I am a member of the [P4](https://sites.google.com/site/p4postech/) Lab under the supervision of Prof. Gunsu Yun.
-
-My research focuses on generating <span style="color:blue;">high-energy-density plasmas </span> using lasers and conducting advanced optical diagnostics. To create dense, <span style="color:blue;">strongly coupled plasmas </span>, I employ <span style="color:blue;">high-pressure supercritical fluids </span> as the medium. Additionally, I explore the intriguing properties of these materials, aiming to uncover new insight into their behavior under extreme conditions.
+My research focused on generating <span style="color:blue;">high-energy-density plasmas</span> using lasers and conducting advanced optical diagnostics. To create dense, <span style="color:blue;">strongly coupled plasmas</span>, I employed <span style="color:blue;">high-pressure supercritical fluids</span> as the medium. Additionally, I explored the intriguing properties of these materials, aiming to uncover new insights into their behavior under extreme conditions.
 
 <br>
 <br>
 
 News
 ======
+Sep, 2025 &nbsp; &nbsp; I joined Samsung Electronics DS.
+
+Aug, 2025 &nbsp; &nbsp; I received my Ph.D. in Physics from POSTECH.
+
 Feb, 2021 &nbsp; &nbsp; I have rewarded the Alchemist research grant.  
 
 Sep, 2018 &nbsp; &nbsp; I joined the P4 Lab.  
