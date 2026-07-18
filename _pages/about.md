@@ -69,7 +69,7 @@ Publications
 
 *Communications Physics*
 
-<img src="https://leejuho95.github.io/files/SANS result.PNG" width="500px" height="332px" title="SANS">   
+<img src="https://leejuho95.github.io/files/SANS result.png" width="500px" height="332px" title="SANS">   
 
 [Link](https://leejuho95.github.io/files/s42005-025-02263-2.pdf)
 
