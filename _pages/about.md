@@ -39,6 +39,30 @@ Mar, 2014 - Aug, 2018 &nbsp; Pohang University of Science and Technology (POSTEC
 Publications
 ======
 
+**Role of ionization potential depression for generation of strongly coupled plasmas in high-pressure supercritical fluids**
+
+<u>Juho Lee* </u>, Hyojeong Lee, Suho Kim, Hyyong Suk and Gunsu Yun
+
+*Scientific Reports*
+
+<img src="https://leejuho95.github.io/files/SANS result.PNG" width="500px" height="332px" title="SANS">   
+
+[Link](https://leejuho95.github.io/files/s41598-025-26615-8.pdf)
+
+------
+
+**Direct NO2 formation from N2-O2 supercritical fluid plasma**
+
+<u>Juho Lee* </u>, Kyusang Cho, Seungjun Lee and Gunsu Yun
+
+*Scientific Reports*
+
+<img src="https://leejuho95.github.io/files/SANS result.PNG" width="500px" height="332px" title="SANS">   
+
+[Link](https://leejuho95.github.io/files/s41598-025-21381-z.pdf)
+
+------
+
 **Experimental evidence of non-equilibrium phase separation in supercritical fluids**
 
 <u>Juho Lee* </u>, Yeonguk Kim, Jong Dae Jang, Changwoo Do, Min Young Ha and Gunsu Yun
