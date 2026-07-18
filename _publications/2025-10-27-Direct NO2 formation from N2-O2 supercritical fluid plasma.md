@@ -2,7 +2,7 @@
 title: "Direct NO2 formation from N2-O2 supercritical fluid plasma"
 collection: publications
 category: manuscripts
-permalink: /publications/2025-10-27-Direct NO2 formation from N2-O2 supercritical fluid plasma
+permalink: /publications/2025-10-27-Direct NO2 formation from N2-O2 supercritical fluid plasma.md
 excerpt: ''
 date: 2025-10-27
 venue: 'Scientific Reports'
