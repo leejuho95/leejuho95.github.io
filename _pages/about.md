@@ -31,7 +31,7 @@ Sep, 2018 &nbsp; &nbsp; I joined the P4 Lab.
 
 Education
 ======
-Sep, 2018 - Present &nbsp; Pohang University of Science and Technology (POSTECH)  
+Sep, 2018 - Sep, 2025 &nbsp; Pohang University of Science and Technology (POSTECH)  
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; M.S. & Ph.D. Student in Physics
   
 Mar, 2014 - Aug, 2018 &nbsp; Pohang University of Science and Technology (POSTECH)  
