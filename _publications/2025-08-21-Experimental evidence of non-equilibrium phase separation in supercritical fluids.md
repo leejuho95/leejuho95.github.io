@@ -2,7 +2,7 @@
 title: "Experimental evidence of non-equilibrium phase separation in supercritical fluids"
 collection: publications
 category: manuscripts
-permalink: /publications/Experimental evidence of non-equilibrium phase separation in supercritical fluids
+permalink: /publications/2025-08-21-Experimental evidence of non-equilibrium phase separation in supercritical fluids.md
 excerpt: ''
 date: 2025-08-21
 venue: 'Communications Physics'
