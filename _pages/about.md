@@ -39,6 +39,18 @@ Mar, 2014 - Aug, 2018 &nbsp; Pohang University of Science and Technology (POSTEC
 Publications
 ======
 
+**Experimental evidence of non-equilibrium phase separation in supercritical fluids**
+
+<u>Juho Lee* </u>, Yeonguk Kim, Jong Dae Jang, Changwoo Do, Min Young Ha and Gunsu Yun
+
+*Communications Physics*
+
+<img src="https://leejuho95.github.io/files/laser produced plasma.PNG" width="500px" height="332px" title="cluster">   
+
+[Link](https://leejuho95.github.io/files/s42005-025-02263-2.pdf)
+
+------
+
 **Characterization of strongly coupled plasmas produced in argon supercritical fluids**
 
 Seungtaek Lee*, <u>Juho Lee* </u>, Young Dae Yoon, Dong Eon Kim and Gunsu Yun
